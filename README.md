@@ -14,8 +14,8 @@ By default the server port is: <em>8087</em>
 
 STEP 1: Clone this repository LIKE THIS: <strong>git clone git@github.com:binpc17/eBanking_SpringBoot.git</strong><br>
 
-STEP 2:  Run this project, With the right click <br>
-<img src="https://github.com/binpc17/eShopBackEnd_SpringBoot/blob/main/HowToRunTheBackendeBank.png" alt="HowToRunTheBackend">
+STEP 2:  Run this project, With the right click
+<img src="https://github.com/binpc17/eBanking_SpringBoot/blob/main/HowToRunTheBackendeBank2.png" alt="HowToRunTheBackend">
 STEP 3: After running this current project ( <strong>eShopBackEnd_SpringBoot</strong>), you will find all  
 backend REST FULL API documentation at these address:
 
